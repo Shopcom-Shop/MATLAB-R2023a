@@ -1,12 +1,12 @@
 <img width="1024" height="1024" alt="MATLAB R2023a" src="https://github.com/user-attachments/assets/b3cdffdf-7e6b-463e-94b0-74d10df2696c" />
 
-Torrent download link :
-
-https://www.shopcom.tn/product/matlab-r2023a/torrent-download
-
 Download link :
 
 https://www.shopcom.tn/product/matlab-r2023a/download
+
+Torrent download link :
+
+https://www.shopcom.tn/product/matlab-r2023a/torrent-download
 
 Purchase link :
 
