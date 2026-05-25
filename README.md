@@ -14,6 +14,12 @@ https://www.shopcom.tn/product/matlab-r2023a/
 
 Product Price : 2,153 $
 
+Payment :
+https://www.shopcom.tn/payment
+
+Website :
+https://www.shopcom.tn
+
 Description :
 
 MATLAB R2023a is a major release from MathWorks, introducing significant advancements in simulation, code efficiency, and hardware connectivity. Its overarching theme is enhancing the workflow from algorithm development to real-time implementation and system-level simulation.
